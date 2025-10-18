@@ -18,7 +18,7 @@ export default function FeaturedPosts({ posts }: FeaturedPostsProps) {
         {/* Main Featured Post (Latest - Left Large) */}
         <Link 
           href={`/${mainPost.slug}`}
-          className="md:col-span-8 group relative overflow-hidden rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300 h-[400px] md:h-[485px]"
+          className="md:col-span-8 group relative overflow-hidden rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300 h-[400px] md:h-[490px]"
         >
           <Image
             src={mainPost.image}
