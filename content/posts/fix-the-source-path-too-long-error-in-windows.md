@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?w=800&h=500
 imageAlt: "Computer screen showing folder files and directories in an office setting"
 category: "Tech Tips"
 tags: ["Windows", "File Management", "Office Tips", "Productivity", "Troubleshooting", "Tech Guide"]
-author: "Sarah Johnson"
+author: "N. B. Musale"
 readTime: "3 min read"
 ---
 
