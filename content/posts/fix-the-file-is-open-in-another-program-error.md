@@ -4,7 +4,7 @@ date: "2025-01-02"
 excerpt: "Can't rename, move, or delete a file in Windows because it's 'open in another program'? Learn why this happens and how to fix it in seconds without restarting."
 image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800&h=500&fit=crop"
 imageAlt: "Frustrated office worker sitting at a desk with a computer monitor displaying Windows"
-category: "Tech Tips"
+category: "Technology"
 tags: ["Windows", "Troubleshooting", "Office Tips", "Productivity", "Tech Guide", "File Management"]
 author: "N. B. Musale"
 readTime: "3 min read"
