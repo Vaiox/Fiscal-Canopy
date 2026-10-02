@@ -13,6 +13,11 @@ export default function Home() {
   const { posts, totalPages, currentPage } = getPostsByPage(1, 6);
   const categories = getCategories();
 
+  const randomPosts = allPosts
+  .slice(6)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 4);
+
   return (
     <>
       {/* Featured Posts Section */}
