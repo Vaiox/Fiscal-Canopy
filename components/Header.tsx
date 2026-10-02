@@ -104,7 +104,14 @@ export default function Header() {
             >
               TECHNOLOGY
             </Link>
-
+            
+            <Link
+              href="/category/tech-tips"
+              className="text-sm font-semibold text-gray-700 dark:text-gray-300 hover:text-primary transition-colors uppercase tracking-wide"
+            >
+              TECH TIPS
+            </Link>
+            
             <Link
               href="/category/health"
               className="text-sm font-semibold text-gray-700 dark:text-gray-300 hover:text-primary transition-colors uppercase tracking-wide"
