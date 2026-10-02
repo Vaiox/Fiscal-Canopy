@@ -61,7 +61,7 @@ export default function Home() {
           </h2>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
-            {allPosts.slice(3, 7).map((post) => (
+            {randomPosts.map((post) => (
               <PostCard key={post.slug} post={post} />
             ))}
           </div>
